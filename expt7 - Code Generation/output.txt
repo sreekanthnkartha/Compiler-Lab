@@ -1,0 +1,10 @@
+
+	MOV AX,a
+	MUL AX,b
+	MOV x,AX
+	MOV BX,c
+	SUB BX,d
+	MOV y,BX
+	MOV CX,AX
+	ADD CX,BX
+	MOV z,CX

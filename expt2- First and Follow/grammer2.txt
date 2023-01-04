@@ -1,0 +1,10 @@
+E'=+TE'|#
+E=TE'
+T'=*FT'|#
+T=FT'
+F=(E)|a|b
+F=(E)|a|b
+F=(E)|a|b
+F=(E)|a|b
+F=(E)|a|b
+F=(E)|a|b
